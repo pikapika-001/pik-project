@@ -1,0 +1,63 @@
+Private Sub Image1_Click()
+    
+    MsgBox "BAAAAAAAA!!"
+    MsgBox "wkwkwk"
+    MsgBox "Kaget ga?"
+    MsgBox "Maap kalo kaget hehe"
+    MsgBox "Assalamualaikum :)"
+    MsgBox "Jawab duluuu"
+    MsgBox "Nah gitu dong :)"
+    MsgBox "Haii, aku mau kasih ini kekamu"
+    MsgBox "Semoga suka :)"
+    MsgBox "Jangan deg-degan yaa"
+    MsgBox "Udah siap?"
+    MsgBox "Hmm, mungkin kamu akan pikir ini aneh.. It's Okay"
+    MsgBox "Let's be fun :)"
+ans = MsgBox("Nama kamu Pika bukan?", vbYesNo + vbQuestion)
+    If ans = vbYes Then MsgBox "Bukannya kamu Fira ya?"
+    If ans = vbNo Then MsgBox "Yah, salah dong :("
+    MsgBox "Apa aku salah orang?"
+    MsgBox "Ah tapi yang ngeselin manusia ini doang deh kayaknya"
+    MsgBox "><"
+    MsgBox "Aku Coba Lagi!"
+ans = MsgBox("Nama kamu Fira bukan?", vbYesNo + vbQuestion)
+    If ans = vbYes Then MsgBox "Nahh akhirnya bener :)"
+    If ans = vbNo Then MsgBox "Bohong dosa tauu!!"
+b = Application.InputBox("Coba ketik nama kamu")
+    MsgBox "Selamat Ulang Tahun! " & b
+    MsgBox "Panjang Umur"
+    MsgBox "Sehat teruss"
+    MsgBox "Makin Semangat Kuliahnya"
+    MsgBox "Makin ganteng"
+    MsgBox "Eh"
+    MsgBox "Makin Cantikkk"
+    MsgBox "Makin Gemoyy"
+    MsgBox "Makin Baik"
+    MsgBox "Kurangin rokoknya"
+    MsgBox "Begadangnya jugaa"
+    MsgBox "Eh"
+    MsgBox "Salah deh kayaknya ><"
+    MsgBox "Bakal kena semprot ga nih kira-kira wkwk"
+    MsgBox "Nurut apa yang diucap ibu ya"
+    MsgBox "Selalu sabar dalam menghadapi apapun"
+    MsgBox "Tetap tersenyum meski kamu sedang sedih"
+    MsgBox "Sholatnya dijaga :)"
+    MsgBox "Makin-makin pokoknya deh :)"
+    MsgBox "Jangan lupa selalu sayang sama keluarga :)"
+    MsgBox "Aku juga"
+    MsgBox "Eh"
+    MsgBox "wkwk"
+    MsgBox "Oh ya, Satu lagi .."
+    MsgBox "Ngeselinnya Kurangin!!"
+    MsgBox "Ngangeninnya jangan"
+    MsgBox "^^"
+ans = MsgBox("Lanjut?", vbYesNo + vbQuestion)
+    If ans = vbYes Then MsgBox "Lihat baik-baik ya"
+    If ans = vbNo Then MsgBox "Tetep harus mau lanjut"
+    MsgBox "Jadilah dan percaya terhadap diri sendiri karna dengan itu kamu kuat dalam hal apapun :)"
+    
+c = Application.InputBox("Ketik keinginan kamu ..")
+d = Application.InputBox("Ada lagi ga?")
+    MsgBox "Semoga semua keinginan kamu dikabulkan Tuhan Yang Maha Kuasa.. Aaminn^^"
+    MsgBox "Sekarang coba scroll ke bawah sampai kolom 300"
+End Sub
